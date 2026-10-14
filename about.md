@@ -5,3 +5,5 @@ Ovo je moj domaci zadatak.
 -Matematika
 -Fotografija
 -Data Science
+
+Oblasti matematike koje me zanimaju su matematicki modeli i optimizacija.
