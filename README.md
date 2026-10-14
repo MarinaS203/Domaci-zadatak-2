@@ -5,3 +5,8 @@
 -SQL
 -Python
 -Databricks
+
+## Phyton biblioteke
+-PySpark
+-Pandas
+-Dask
